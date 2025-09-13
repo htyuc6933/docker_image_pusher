@@ -1,2 +1,2 @@
 #支持指定架构
-fish2018/pansou
+pansou
